@@ -57,7 +57,7 @@ def main():
             else:
                 print("No data available for the given date.")
         elif choice == "0":
-            print("Exiting the program.")
+            print("You Existing the program.")
             break
         else:
             print("Invalid choice. Please try again.")
